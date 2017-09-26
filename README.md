@@ -5,7 +5,7 @@ IA LeMans StudyGroup Batch 00 | september 2017
 Usages actuels de l'IA | regression lineaire et descente de gradient | réseau neuronal (principes)  
 Support de présentation https://github.com/IALeMans/batch00/blob/master/IALeMans%20StudyGroup%20batch%2000%20-%20presentation.pdf
 
-# Part 2 | lundi 15.09
+# Part 2 | lundi 18.09 |
 Retour sur l'entrainement d'un réseau de neurones | réseau convolutionnel en traitement d'images | évolutions des architectures des convnet de 1998 à 2015 | cas pratique de classification d'images  
 Support de présentation https://github.com/IALeMans/batch00/blob/master/IALeMans%20StudyGroup%20batch%2000%20part%202%20-%20presentation.pdf  
 
@@ -18,6 +18,11 @@ Support de présentation https://github.com/IALeMans/batch00/blob/master/IALeMan
 ##Tutos Classification :
 - https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/
 - repo github *Converse VS NewBalance* https://github.com/IALeMans/image-classifier
+
+# Part 3 | lundi 25.09 | guest : Anthony Rousseau, Head of R&D Allo-Media.fr
+le Natural Language Processing | cas d'usage
+les technos associées : word embedding, RNN-LSTM-GRU, SEQ2SEQ-Attention Mechanism-CTC, convolution network for NLP
+Allo-Media.fr : le pitch, DeepSpeech2, témoignage et perspectives dans le domaine de la transco vocale
 
 # starter kit pour briller en soirée
 Machine Learning is Fun! 
